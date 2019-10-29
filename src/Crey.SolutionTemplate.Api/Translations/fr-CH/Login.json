@@ -1,0 +1,14 @@
+{
+    "Password": "Mot de passe",
+    "PasswordRequired": "Le mot de passe est requis",
+    "Connect": "Se connecter",
+    "Connection": "Connexion",
+    "ForgottenPassword": "Mot de passe oublié ?",
+    "ResetPassword": "Réinitialisation du mot de passe",
+    "AskResetPassword": "Demander la réinitialisation du mot de passe",
+    "AskResetPasswordConfirmation": "Un email permettant la réinitialisation du mot de passe a été envoyé à cette adresse",
+    "ConfirmPassword": "Confirmez le mot de passe",
+    "PasswordTooShort": "Le mot de passe doit comporter au minimum 8 caractères",
+    "PasswordsDoesNotMatch": "Les mots de passe ne correspondent pas",
+    "ResetPasswordConfirmation": "Votre mot de passe a bien été réinitialisé"
+}

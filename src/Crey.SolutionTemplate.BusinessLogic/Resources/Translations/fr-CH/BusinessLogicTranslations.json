@@ -1,0 +1,7 @@
+{
+  "AccountCreationMailSubject": "Accès Crey.SolutionTemplate",
+  "AccountCreationMailBodySrc": "Bonjour {0}, <br> Votre accès au Crey.SolutionTemplate a été crée<br>. vour pouvez utiliser <a href=\"{1}\">ce lien</a> afin de réinitialiser votre mot de passe pour ensuite vous connecter.",
+  "AccountPasswordResetEmailSubject" : "Réinitialisation mot de passe",
+  "AccountPasswordResetEmailBodySrc" : "Bonjour {0}, <br> Vour recevez ce mail car une demande de réinitialisation de votre mot de passe pour votre compte Crey.SolutionTemplate a été demandée.<br> Si vous êtes à l'origine de cette demande vous pouvez finalisez celle-ci en suivant <a href=\"{1}\">ce lien</a>.<br> Si vous n'êtes pas  l'origine de cette demande vous pouvez ignorer ce mail.",
+  "AccountPasswordResetEmailNotFoundBody" : "Bonjour, <br> Vour recevez ce mail car une demande de réinitialisation de mot de passe pour Crey.SolutionTemplate a été demandée.<br> Malheureusement aucun compte associé à cette adresse mail n'a été trouvé."
+}

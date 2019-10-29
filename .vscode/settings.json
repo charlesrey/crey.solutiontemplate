@@ -1,0 +1,6 @@
+{
+    "typescript.tsdk": "Crey.SolutionTemplate.FrontEnd\\node_modules\\typescript\\lib",
+    "typescriptHero.imports.stringQuoteStyle": "\"",
+    "typescript.preferences.importModuleSpecifier": "auto",
+    "typescriptHero.imports.organizeOnSave": true,
+}
